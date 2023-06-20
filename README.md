@@ -2,7 +2,7 @@
 
 # Vet Clinic Services in Russia
 
-Welcome to our vet clinic service website! We offer our services in over 40 towns in Russia. Our website is built on PHP and uses Tailwind CSS for styling. We also utilize the ACF WordPress plugin for easy content management.
+Welcome to our vet clinic service website! We offer our services in over 40 towns in Russia. Our website is built on php LAMP stack. We also utilize the ACF WordPress plugin for easy content management.
 
 ## Features
 
