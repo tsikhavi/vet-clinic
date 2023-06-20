@@ -1,5 +1,4 @@
-# vet-clinic
-Website for a vet clinic built on php, acf wordpress plugin
+# Website for a vet clinic built on php, acf wordpress plugin
 
 # Vet Clinic Services in Russia
 
