@@ -2,4 +2,7 @@
 node_modules/
 npm-debug.log
 .phpunit.result.cache
-
+test.php
+work.txt
+extensions.json
+.vscode/
